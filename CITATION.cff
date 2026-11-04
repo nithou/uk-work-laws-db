@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: >-
+  If you use this corpus, cite it as below. Keep the Crown copyright attribution
+  required by the Open Government Licence v3.0 for the official material
+  (see LICENSE): "Contains public sector information licensed under the Open
+  Government Licence v3.0."
+title: "UK Employment Law Knowledge Base"
+abstract: >-
+  Markdown corpus of Great Britain employment law for LLM assistants serving
+  workers and workplace representatives. Contains the revised text of 10 Acts
+  (including the Employment Rights Act 2025) plus SSCBA 1992 extracts, 22
+  statutory instruments, the five statutory Acas Codes, 620 Acas advice pages
+  and 136 GOV.UK guides, with original method guides, tribunal procedure,
+  representative guidance, leading cases and letter templates. Every file
+  carries a YAML header with source, URI, version date and licence; one heading
+  per statutory section for deterministic chunking. Snapshot of 3 November 2026,
+  Acts revised to 30 October 2026, prospective changes flagged rather than
+  applied.
+type: dataset
+authors:
+  - name: "Nithou"
+    alias: "nithou"
+    website: "https://github.com/nithou"
+version: "2026.11.03"
+date-released: "2026-11-03"
+license: OGL-UK-3.0
+repository-code: "https://github.com/nithou/uk-work-laws-db"
+keywords:
+  - employment law
+  - labour law
+  - United Kingdom
+  - Great Britain
+  - Employment Rights Act 1996
+  - Employment Rights Act 2025
+  - Acas
+  - legislation.gov.uk
+  - legal knowledge base
+  - retrieval-augmented generation
+  - legal-rag
+  - MCP
+  - Model Context Protocol
