@@ -35,3 +35,7 @@ The MCP servers documented in `README.md` (`openlaw`, `lex`) are independent ser
 ## What this is not
 
 This is source material for a machine-assisted legal information tool, not legal advice, and no warranty of accuracy or fitness is given — the OGL is explicit on that point. Case law summaries and "key figures" drift out of date; verify before relying on them.
+
+## Reporting errors
+
+Attribution errors are fixable. Open an issue with the file path and the source URL; corrections to the reproduction (missing sections, truncation) are applied directly.
