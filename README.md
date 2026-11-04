@@ -138,7 +138,7 @@ Clients that only speak stdio can bridge it: `npx -y mcp-remote https://openlawm
 
 ## Licence and attribution
 
-Two layers, spelled out in [`LICENSE.md`](LICENSE.md). Short version:
+Two layers, spelled out in [`LICENSE`](LICENSE). Short version:
 
 - Legislation: legislation.gov.uk, The National Archives — Crown copyright, [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 - Acas and GOV.UK content: Crown copyright, OGL v3.0.
