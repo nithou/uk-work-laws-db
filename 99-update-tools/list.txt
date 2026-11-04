@@ -1,0 +1,38 @@
+ukpga/1996/18 Employment Rights Act 1996
+ukpga/2025/36 Employment Rights Act 2025
+ukpga/2010/15 Equality Act 2010
+ukpga/1992/52 Trade Union and Labour Relations (Consolidation) Act 1992
+ukpga/1996/17 Employment Tribunals Act 1996
+ukpga/1998/39 National Minimum Wage Act 1998
+ukpga/1999/26 Employment Relations Act 1999
+ukpga/1974/37 Health and Safety at Work etc. Act 1974
+ukpga/1997/40 Protection from Harassment Act 1997
+ukpga/2002/22 Employment Act 2002
+ukpga/1992/4 Social Security Contributions and Benefits Act 1992
+uksi/1998/1833 Working Time Regulations 1998
+uksi/2006/246 Transfer of Undertakings (Protection of Employment) Regulations 2006
+uksi/2015/621 National Minimum Wage Regulations 2015
+uksi/2024/1155 Employment Tribunal Procedure Rules 2024
+uksi/2013/1237 Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013
+uksi/2014/254 Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) Regulations 2014
+uksi/1999/3312 Maternity and Parental Leave etc. Regulations 1999
+uksi/2002/2788 Paternity and Adoption Leave Regulations 2002
+uksi/2014/3050 Shared Parental Leave Regulations 2014
+uksi/2020/249 Parental Bereavement Leave Regulations 2020
+uksi/2014/1398 Flexible Working Regulations 2014
+uksi/2000/1551 Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000
+uksi/2002/2034 Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002
+uksi/2010/93 Agency Workers Regulations 2010
+uksi/2004/3426 Information and Consultation of Employees Regulations 2004
+uksi/1982/894 Statutory Sick Pay (General) Regulations 1982
+uksi/2024/251 Carer's Leave Regulations 2024
+uksi/2025/375 Neonatal Care Leave and Miscellaneous Amendments Regulations 2025
+uksi/2026/310 Employment Rights (Increase of Limits) Order 2026
+uksi/1977/500 Safety Representatives and Safety Committees Regulations 1977
+uksi/1996/1513 Health and Safety (Consultation with Employees) Regulations 1996
+uksi/2026/3 Employment Rights Act 2025 (Commencement No. 1) Regulations 2026
+uksi/2026/323 Employment Rights Act 2025 commencement regulations (SI 2026/323)
+uksi/2026/373 Employment Rights Act 2025 commencement regulations (SI 2026/373)
+uksi/2026/559 Employment Rights Act 2025 commencement regulations (SI 2026/559)
+uksi/2026/954 Employment Rights Act 2025 commencement regulations (SI 2026/954)
+uksi/2026/1065 Employment Rights Act 2025 commencement regulations (SI 2026/1065)
